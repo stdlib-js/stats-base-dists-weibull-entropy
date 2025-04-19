@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`8f6a179`](https://github.com/stdlib-js/stdlib/commit/8f6a17907838144542105b5d3958d7deda2b2998) - **chore:** clean-up and fix test tolerances _(by Athan Reines)_
 -   [`30e8533`](https://github.com/stdlib-js/stdlib/commit/30e8533310749ffda95559be84bb9155288a96fd) - **feat:** add C implementation for `stats/base/dists/weibull/entropy` [(#4109)](https://github.com/stdlib-js/stdlib/pull/4109) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
 -   [`1ebcfd6`](https://github.com/stdlib-js/stdlib/commit/1ebcfd618beaf055a7097c89f3794d507fd14947) - **bench:** refactor random number generation in `stats/base/dists/weibull` [(#5342)](https://github.com/stdlib-js/stdlib/pull/5342) _(by Gaurav)_
 
@@ -47,8 +48,9 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gaurav
 -   Gururaj Gurram
 -   Philipp Burckhardt
