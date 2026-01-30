@@ -69,7 +69,7 @@ where `λ > 0` is the [shape parameter][shape], `k > 0` is the [scale parameter]
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-entropy@v0.3.0-deno/mod.js';
 ```
 
 #### entropy( k, lambda )
@@ -141,7 +141,7 @@ v = entropy( 1.0, -1.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-entropy@deno/mod.js';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-weibull-entropy@v0.3.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
